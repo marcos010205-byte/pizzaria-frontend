@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fff8e1;
+  color: #333;
+}
+
+header {
+  background-color: #d32f2f;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+header nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.App main {
+  padding: 20px;
+  text-align: center;
+}
+
+.welcome h1 {
+  color: #d32f2f;
+}
+
+.order-btn {
+  padding: 10px 20px;
+  margin: 15px 0;
+  background-color: #f57c00;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.order-btn:hover {
+  background-color: #ef6c00;
+}
+
+.menu ul {
+  list-style: none;
+  padding: 0;
+}
+
+.menu li {
+  background-color: #ffe0b2;
+  margin: 5px auto;
+  padding: 10px;
+  width: 200px;
+  border-radius: 5px;
+}
